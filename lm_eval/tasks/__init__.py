@@ -53,6 +53,7 @@ from . import gsm8k
 from . import storycloze
 from . import toxigen
 from . import crowspairs
+from .ja import abc_multiple_choice
 from .ja import jsquad
 from .ja import jaquad
 from .ja import jcommonsenseqa
